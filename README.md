@@ -1,4 +1,5 @@
-🛒 E-Commerce Super Store Analysis – Power BI Dashboard
+🛒 E-Commerce Super Store Analysis – Power BI Dashboard.
+
 This Power BI dashboard provides a comprehensive analysis of an e-commerce super store, focusing on sales performance, customer behavior, product analysis, and retention. Through interactive and visually engaging reports, it helps businesses uncover patterns that improve revenue, optimize customer experience, and reduce churn.
 
 📊 Dashboard Pages & Key Insights
