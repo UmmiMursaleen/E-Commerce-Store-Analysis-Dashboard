@@ -1,73 +1,69 @@
 🛒 E-Commerce Super Store Analysis – Power BI Dashboard
-
 This Power BI dashboard provides a comprehensive analysis of an e-commerce super store, focusing on sales performance, customer behavior, product analysis, and retention. Through interactive and visually engaging reports, it helps businesses uncover patterns that improve revenue, optimize customer experience, and reduce churn.
 
 📊 Dashboard Pages & Key Insights
 1️⃣ Sales Overview
 
-Total Sales: $1.2M | Orders: 183K | Units Sold: 567K | Profit: $716K (59.7% margin)
+•	Total Sales: $1.2M | Orders: 183K | Units Sold: 567K | Profit: $716K (59.7% margin)
 
-Monthly Sales Trends: Seasonal spikes in Jan (+72.3%) and Nov (+23.1%), with dips in Feb and Oct.
+•	Monthly Sales Trends: Seasonal spikes in Jan (+72.3%) and Nov (+23.1%), with dips in Feb and Oct.
 
-Store Performance: Four stores contribute almost equally, with Store 13 slightly leading.
+•	Store Performance: Four stores contribute almost equally, with Store 13 slightly leading.
 
-Top 5 Customers: Merridee Archule to Mary Smith – showing strong high-value buyers.
+•	Top 5 Customers: Merridee Archule to Mary Smith – showing strong high-value buyers.
 
-Regional Sales: North West dominates with $442K, while Central West lags at $5K.
+•	Regional Sales: North West dominates with $442K, while Central West lags at $5K.
 
-Top Product Models & Brands: Great Pumpkin Bread (+6.6%), High Top Potatoes (+9.5%) leading growth, with Hermanos and Tell Tale as top brands.
+•	Top Product Models & Brands: Great Pumpkin Bread (+6.6%), High Top Potatoes (+9.5%) leading growth, with Hermanos and Tell Tale as top brands.
 
 2️⃣ Customer Analysis
+•	Customer Base: 10,281 total, 8,060 active, and 3,261 new customers.
 
-Customer Base: 10,281 total, 8,060 active, and 3,261 new customers.
+•	Retention Rate: 59.5% overall – strong repeat purchase trend.
 
-Retention Rate: 59.5% overall – strong repeat purchase trend.
+•	New Customer Sales: $625K, indicating solid acquisition.
 
-New Customer Sales: $625K, indicating solid acquisition.
+•	Customer Demographics:
 
-Customer Demographics:
+•	By Income: Majority earn $30K–$50K (2,642 customers).
 
-By Income: Majority earn $30K–$50K (2,642 customers).
+•	By Gender: Balanced contribution – Male (51%), Female (49%).
 
-By Gender: Balanced contribution – Male (51%), Female (49%).
+•	By Country: USA leads with 5,575 customers, followed by Canada (1,380) and Mexico (1,105).
 
-By Country: USA leads with 5,575 customers, followed by Canada (1,380) and Mexico (1,105).
+•	Store Type Preference: Supermarkets retain the most customers (77%), while Small Grocery attracts more new buyers (59%).
 
-Store Type Preference: Supermarkets retain the most customers (77%), while Small Grocery attracts more new buyers (59%).
-
-Payment Type: Debit Card dominates, with Bronze customers forming the largest tier (4,494).
+•	Payment Type: Debit Card dominates, with Bronze customers forming the largest tier (4,494).
 
 3️⃣ Lost Customers Analysis
 
-Lost Customers: 1,894 (21.4% of base), with total lost sales of $122K.
+•	Lost Customers: 1,894 (21.4% of base), with total lost sales of $122K.
 
-Monthly Trend: Peak attrition in May (320 customers lost) followed by gradual improvement.
+•	Monthly Trend: Peak attrition in May (320 customers lost) followed by gradual improvement.
 
-Customer Churn Indicator: Customers not purchasing for 6+ months are classified as lost.
+•	Customer Churn Indicator: Customers not purchasing for 6+ months are classified as lost.
 
-Top vs. Bottom Customers: Provides ranking of best-performing and weakest customers by sales contribution.
+•	Top vs. Bottom Customers: Provides ranking of best-performing and weakest customers by sales contribution.
 
 💡 Business Recommendations
 
-Boost Retention: Focus on re-engaging the 21% lost customers with loyalty programs and win-back campaigns.
+•	Boost Retention: Focus on re-engaging the 21% lost customers with loyalty programs and win-back campaigns.
 
-Seasonal Campaigns: Launch promotional offers in off-peak months (Feb, Aug, Oct) to stabilize revenue.
+•	Seasonal Campaigns: Launch promotional offers in off-peak months (Feb, Aug, Oct) to stabilize revenue.
 
-Regional Strategy: Expand in low-performing regions (Central & Mexico West) with localized promotions.
+•	Regional Strategy: Expand in low-performing regions (Central & Mexico West) with localized promotions.
 
-Product Optimization: Scale top-selling models and improve marketing for underperforming categories.
+•	Product Optimization: Scale top-selling models and improve marketing for underperforming categories.
 
-Customer Segmentation: Target $30K–$50K income bracket with mid-range product bundles and value offers.
+•	Customer Segmentation: Target $30K–$50K income bracket with mid-range product bundles and value offers.
 
 ⚙️ Tools & Technologies
 
 Power BI Desktop for data modeling & visualization
-
 DAX for calculated KPIs and measures
-
 Excel/CSV dataset as data source
-
 Power BI Service for publishing & sharing dashboards
+
 
 
 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYTRiZjQzNjEtZGM0Ni00MzkyLWJmMjUtM2QyZGRiNDE3MWFlIiwidCI6ImE1YTkwM2M4LWRjMDgtNGJlMi1iMTdiLWFkNzZiM2U5NzI2YiIsImMiOjl9
